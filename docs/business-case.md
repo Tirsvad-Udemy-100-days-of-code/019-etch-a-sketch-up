@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-08 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | pending |
+| 2026-10-08 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | [5f9d016] |
 
 ## Executive Summary
 
@@ -165,3 +165,4 @@ Proceed — the effort is small, the risks have mitigations, and the result serv
 ---
 
 [SA-001]: ./stakeholder-analysis.md
+[5f9d016]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/019-etch-a-sketch-up/commit/5f9d01636b37ac71e4d3d35374864a091c7d6f10

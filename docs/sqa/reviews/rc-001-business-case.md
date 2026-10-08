@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-08 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | pending |
+| 2026-10-08 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | [5f9d016] |
 
 ---
 
@@ -64,3 +64,4 @@ Go — all Mandatory criteria of `QC-BC-001` and `QC-LANG-001` are Pass. The rev
 [BC-001]: ../../business-case.md
 [QC-BC-001]: ../../../framework/qc/qc-business-case.md
 [QC-LANG-001]: ../../../framework/qc/qc-language-domain.md
+[5f9d016]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/019-etch-a-sketch-up/commit/5f9d01636b37ac71e4d3d35374864a091c7d6f10
